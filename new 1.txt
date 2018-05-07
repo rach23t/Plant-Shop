@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+.color {
+	color: #ff9999;
+}
+
+h1 {
+	opacity: 0.2
+}
+</style>
+
+<div class="color">
+<head>
+	<h1> Rachel Succs </h1>
+</head>
+</div>
+
+<body>
+
+</body>
+</html>
